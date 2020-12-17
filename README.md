@@ -31,7 +31,7 @@ called HTTPlug. This will give you the flexibilty to choose what PSR-7 implement
 If you just want to get started quickly you should run the following command: 
 
 ```bash
-php composer.phar require mailgun/mailgun-php php-http/curl-client guzzlehttp/psr7
+php composer.phar require BrainStormDevel/mailgun-php php-http/curl-client guzzlehttp/psr7
 ```
 
 ### Why requiring so many packages?
